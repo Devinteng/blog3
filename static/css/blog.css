@@ -109,14 +109,14 @@ body::-webkit-scrollbar {
   max-width: 560px;
 }
 .header {
-  margin-top: 40px;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
 .header .logo {
   display: inline-block;
   vertical-align: middle;
-  width: 42px;
-  height: 42px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
   transition: transform 500ms linear;
@@ -139,7 +139,7 @@ body::-webkit-scrollbar {
   font-size: 0;
 }
 .header .menu a {
-  font-size: 16px;
+  font-size: 18px;
   display: inline-block;
   margin: 0 13px;
   position: relative;
