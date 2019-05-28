@@ -21,8 +21,6 @@ menu:
     url: /pages/categories.html
   - title: Books
     url: /pages/books.html
-  - title: Movies
-    url: /pages/movies.html
   - title: Tools
     url: /pages/tools.html
   - title: Chat
