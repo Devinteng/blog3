@@ -1,0 +1,42 @@
+encoding: utf-8
+
+# SEO相关信息
+title: 白日梦想家
+description: DXH的个人博客
+keywords: DXH,Blog,白日梦,白日梦想家
+author: DXH
+footerText: 'Copyright © 2019 Daythink.Net 🧡 All Rights Reserved.'
+
+# 域名配置,生成sitemap会用到，友链也会用到
+domainUrl: 'https://daythink.net'
+# 路径配置，静态资源404一般是这里不对
+# 直接域名访问设置为'',有如果是user.github.io/blog/访问的话设置为'/blog'
+baseUrl: ''
+
+# 菜单
+menu:
+  - title: Home
+    url: /
+  - title: Categories
+    url: /pages/categories.html
+  - title: Books
+    url: /pages/books.html
+  - title: Movies
+    url: /pages/movies.html
+  - title: Tools
+    url: /pages/tools.html
+  - title: Chat
+    url: /pages/chat.html
+  - title: About
+    url: /pages/about.html
+  - title: Search
+    url: /pages/search.html
+
+# 文章url前缀，固定格式，不要动
+permalink: /posts/:year/:month/:day/:title.html
+
+kramdown:
+  auto_ids: true
+  input: GFM
+
+exclude: ['CNAME', 'README.md', 'build-tool']
