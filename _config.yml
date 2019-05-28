@@ -21,8 +21,6 @@ menu:
     url: /pages/分类.html
   - title: 阅读
     url: /pages/阅读.html
-  - title: books
-    url: /pages/books.html
   - title: 闲言
     url: /pages/闲言.html
   - title: 利器
