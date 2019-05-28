@@ -25,8 +25,8 @@ menu:
     url: /pages/tools.html
   - title: Chat
     url: /pages/chat.html
-  - title: About
-    url: /pages/about.html
+  - title: 关于
+    url: /pages/关于.html
   - title: Search
     url: /pages/search.html
 
