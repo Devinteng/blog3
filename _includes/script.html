@@ -3,3 +3,12 @@
 {% for js in pageJS %}
 <script type="text/javascript" src="{{site.baseUrl}}/static/js/{{ js }}?t={{ site.time | date: "%Y%m%d%H%M%S" }}"></script>
 {% endfor %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140557539-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140557539-1');
+</script>
