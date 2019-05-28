@@ -15,20 +15,20 @@ baseUrl: ''
 
 # 菜单
 menu:
-  - title: Home
+  - title: 首页
     url: /
-  - title: Categories
-    url: /pages/categories.html
-  - title: Books
-    url: /pages/books.html
-  - title: Tools
-    url: /pages/tools.html
-  - title: Chat
-    url: /pages/chat.html
+  - title: 分类
+    url: /pages/分类.html
+  - title: 阅读
+    url: /pages/阅读.html
+  - title: 利器
+    url: /pages/利器.html
+  - title: 留言
+    url: /pages/留言.html
   - title: 关于
     url: /pages/关于.html
-  - title: Search
-    url: /pages/search.html
+  - title: 搜索
+    url: /pages/搜索.html
 
 # 文章url前缀，固定格式，不要动
 permalink: /posts/:year/:month/:day/:title.html
