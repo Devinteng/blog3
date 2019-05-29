@@ -63,19 +63,18 @@ blog.addLoadEvent(function() {
   })
 })
 
-// 文字冒泡-社会主义核心价值观
+// 文字冒泡-Traveling light
 blog.addLoadEvent(function() {
   if (document.body.offsetWidth <= 560) {
     return false
   }
   var texts = [
-    'traveling light'
-    'Down by the riverside',
-    'I laid my burdens down',
-    'Now I am traveling light',
-    'My spirit lifted high',
-    'I found my freedom now',
-    'And I am traveling light',
+    'traveling'
+    'light',
+    'down',
+    'by',
+    'the',
+    'riverside',
   ]
   var temp = '<span style="top:{top}px;'
   temp += 'left:{left}px;'
