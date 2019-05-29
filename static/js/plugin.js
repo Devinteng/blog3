@@ -69,7 +69,9 @@ blog.addLoadEvent(function() {
     return false
   }
   var texts = [
-    'traveling'
+    '我',
+    '白日梦',
+    'traveling',
     'light',
     'down',
     'by',
