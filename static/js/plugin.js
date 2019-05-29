@@ -69,7 +69,8 @@ blog.addLoadEvent(function() {
     return false
   }
   var texts = [
-    '我',
+    '我喜欢',
+    '做',
     '白日梦',
     'traveling',
     'light',
