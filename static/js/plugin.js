@@ -69,18 +69,13 @@ blog.addLoadEvent(function() {
     return false
   }
   var texts = [
-    '富强',
-    '民主',
-    '文明',
-    '和谐',
-    '自由',
-    '平等',
-    '公正',
-    '法治',
-    '爱国',
-    '敬业',
-    '诚信',
-    '友善'
+    'traveling light'
+    'Down by the riverside',
+    'I laid my burdens down',
+    'Now I am traveling light',
+    'My spirit lifted high',
+    'I found my freedom now',
+    'And I am traveling light',
   ]
   var temp = '<span style="top:{top}px;'
   temp += 'left:{left}px;'
