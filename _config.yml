@@ -21,14 +21,14 @@ menu:
     url: /pages/分类.html
   - title: 阅读
     url: /pages/阅读.html
-  - title: 闲言
-    url: /pages/闲言.html
   - title: 利器
     url: /pages/利器.html
-  - title: 留言
-    url: /pages/留言.html
+  - title: 闲言
+    url: /pages/闲言.html
   - title: 关于
     url: /pages/关于.html
+  - title: 留言
+    url: /pages/留言.html
   - title: 搜索
     url: /pages/搜索.html
 
